@@ -42,7 +42,7 @@ anypoint-autocomplete {
 
 .scope-display {
   overflow: hidden;
-  font-size: 16px;
+  font-size: var(--oauth2-scope-selector-font-size, 16px);
 }
 
 .scope-item[data-two-line] {

@@ -1,14 +1,14 @@
-# oauth2-scope-selector
+[![Published on NPM](https://img.shields.io/npm/v/@advanced-rest-client/oauth2-scope-selector.svg)](https://www.npmjs.com/package/@advanced-rest-client/oauth2-scope-selector)
+
+[![Tests and publishing](https://github.com/advanced-rest-client/oauth2-scope-selector/actions/workflows/deployment.yml/badge.svg)](https://github.com/advanced-rest-client/oauth2-scope-selector/actions/workflows/deployment.yml)
+
+# &lt;oauth2-scope-selector&gt;
 
 Form element that provides the UI to enter a scope for OAuth 2.0 settings.
 
 ```html
 <oauth2-scope-selector name="scope" allowedscopes='["email", "profile"]'></oauth2-scope-selector>
 ```
-
-[![Published on NPM](https://img.shields.io/npm/v/@advanced-rest-client/oauth2-scope-selector.svg)](https://www.npmjs.com/package/@advanced-rest-client/oauth2-scope-selector)
-
-[![Tests and publishing](https://github.com/advanced-rest-client/oauth2-scope-selector/actions/workflows/deployment.yml/badge.svg)](https://github.com/advanced-rest-client/oauth2-scope-selector/actions/workflows/deployment.yml)
 
 ## Usage
 
