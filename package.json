@@ -1,7 +1,7 @@
 {
   "name": "@advanced-rest-client/oauth2-scope-selector",
   "description": "A selector for the OAuth scope. It provides an UI to enter a scope for the OAuth 2 settings",
-  "version": "4.0.1",
+  "version": "4.0.2",
   "license": "Apache-2.0",
   "main": "index.js",
   "module": "index.js",
